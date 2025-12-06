@@ -1,0 +1,17 @@
+# Python virtual env
+backend/env/
+env/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# OS junk
+.DS_Store
+Thumbs.db
